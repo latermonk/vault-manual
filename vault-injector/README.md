@@ -8,4 +8,5 @@ https://developer.hashicorp.com/vault/tutorials/kubernetes/kubernetes-external-v
 
   
 
-
+## V
+https://www.youtube.com/watch?v=xUuJhgDbUJQ    
