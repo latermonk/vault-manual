@@ -1,6 +1,8 @@
 # k8s install
 
-https://developer.hashicorp.com/vault/tutorials/kubernetes/kubernetes-sidecar    
+https://developer.hashicorp.com/vault/tutorials/kubernetes/kubernetes-sidecar      
+
+https://killercoda.com/playgrounds/scenario/kubernetes       
 
 1. clone demo repo     
 
